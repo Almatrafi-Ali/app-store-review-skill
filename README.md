@@ -1,5 +1,7 @@
 # App Store Review - Claude Code Skill
 
+![App Store Pre-Submission Review](promo-en-light.png)
+
 A comprehensive pre-submission code review skill for iOS/macOS apps. It scans your Xcode project and catches potential App Store rejection reasons **before** you submit.
 
 ## What It Does
